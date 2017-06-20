@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=sr
+comment0.target=void\ processGenes(edu.duke.StorageResource)
+comment1.params=dna\ codon
+comment1.target=void\ countCodon(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=void\ testing()
+numComments=3

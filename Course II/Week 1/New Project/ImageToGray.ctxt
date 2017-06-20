@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=image
+comment0.target=edu.duke.ImageResource\ toGray(edu.duke.ImageResource)
+comment1.params=
+comment1.target=void\ pickAndChange()
+comment2.params=image
+comment2.target=edu.duke.ImageResource\ toNegative(edu.duke.ImageResource)
+numComments=3
